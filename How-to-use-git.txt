@@ -1,0 +1,14 @@
+//please do not add some big files, such as video,... etc
+//you will have problems with your git
+
+How to start project
+1) create folder
+2) enter in this folder in the git console using "cd" command(intro to unix hello)
+3) git init .
+4) git remote add origin https://github.com/miscoimax/SYSTEMS-DEVELOPMENT-Grey-Team
+
+How to Commit it
+1) git pull TP master (dowload last version from github) (TP for Team Project)
+2) git add * (add all changed files)
+3) git commit -m "Commit message." (prepare files to send in github. you can name somehow your changes)
+4) git push --set-upstream DR master (sends files in github)
