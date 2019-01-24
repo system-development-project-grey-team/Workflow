@@ -1,14 +1,25 @@
+
 //please do not add some big files, such as video,... etc
 //you will have problems with your git
 
-How to start project
+**How to start project**
 1) create folder
 2) enter in this folder in the git console using "cd" command(intro to unix hello)
 3) git init .
-4) git remote add TP https://github.com/miscoimax/SYSTEMS-DEVELOPMENT-Grey-Team/Workflow.git
+4) git remote add TP https://github.com/system-development-project-grey-team/Workflow.git
 
-How to Commit it
+**How to Commit it**
 1) git pull TP master (dowload last version from github) (TP for Team Project)
 2) git add * (add all changed files)
 3) git commit -m "Commit message." (prepare files to send in github. you can name somehow your changes)
 4) git push --set-upstream TP master (sends files in github)
+//maybe you will have to type your login and password from github
+
+//in this case, click cancel in new window width login and password
+//in the console it will be written: "Login failed..." and retry to login from the console
+//then, enter CORRECTLY your username from github
+//then you will see new window with password
+//enter CORRECTLY your password from github
+
+//if you see that message in the console "Branch master set up to track remote branch master from TP."
+//everything is ok and you updated our files
