@@ -5,7 +5,7 @@ How to start project
 1) create folder
 2) enter in this folder in the git console using "cd" command(intro to unix hello)
 3) git init .
-4) git remote add TP https://github.com/miscoimax/SYSTEMS-DEVELOPMENT-Grey-Team
+4) git remote add TP https://github.com/miscoimax/SYSTEMS-DEVELOPMENT-Grey-Team/Workflow
 
 How to Commit it
 1) git pull TP master (dowload last version from github) (TP for Team Project)
